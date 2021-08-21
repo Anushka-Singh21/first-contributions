@@ -7,6 +7,7 @@
 - William Kwon (https://github.com/wtkwon)
 - Abhishek Kumar (https://github.com/abhishek-kr-01)
 - Alex Hong
+- Anushka Singh
 - rpturan
 - Mariano Paniagua (https://github.com/MarianoPaniagua)
 - Adrian Escalona (https://github.com/DriesCode)
